@@ -1,6 +1,6 @@
 ![Build](https://github.com/android/platform-samples/actions/workflows/build.yml/badge.svg)
 
-# Android Platform Samples
+# Android.X.Platform Samples
 
 This repository contains a collection of samples that demonstrate the use of different Android OS platform APIs. The samples are organized into folders by topic, and each folder contains a README file that provides more information about the samples in that folder.
 
